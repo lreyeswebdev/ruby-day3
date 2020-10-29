@@ -11,3 +11,7 @@ class Singer
   
   beyonce = Singer.new("Beyonce", 39, "Irreplaceable")
   beyonce.sing
+
+#class provides a blueprint for something.
+#object is an instance or a sample of the blueprint created.
+#method is a set of instructions, like a function, that can be used by all objects included in that same class.
